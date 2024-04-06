@@ -1,1 +1,30 @@
-STRING
+1. String in Java is a?
+a) class
+b) object
+c) variable
+d) character array
+//a
+2. Which of these method of String class is used to obtain character at specified index?
+a) char()
+b) Charat()
+c) charat()
+d) charAt()
+//d
+3. Which of these method of String class can be used to test to strings for equality?
+a) isequal()
+b) isequals()
+c) equal()
+d) equals()
+//d
+4.What is the correct way to create a new empty string object in java?
+a)String emptyString = "";
+b)String emptyString = new String();
+c)both a and b
+d)neither a nor b
+//c
+5.which of the following is true about java strings?
+a)Strings are mutable.
+b)Strings can implemented as arrays of characters.
+c)Strings can have a null value.
+d)Strings are contain only letters.
+//b
